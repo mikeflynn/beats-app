@@ -1,0 +1,20 @@
+{
+  "name": "Beats Music",
+  "description": "Beats Music Google Chrome Web App",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  },
+  "permissions": [
+    "notifications",
+    "webview",
+    "https://*.beatsmusic.com/*",
+    "http://*.beatsmusic.com/*"
+  ]
+}
