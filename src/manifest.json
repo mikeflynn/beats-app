@@ -1,7 +1,7 @@
 {
   "name": "Beats Music",
   "description": "Beats Music Google Chrome Web App",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 2,
   "app": {
     "background": {
@@ -17,5 +17,5 @@
     "https://*.beatsmusic.com/*",
     "http://*.beatsmusic.com/*"
   ],
-  "update_url": "http://mikeflynn.github.io/beats-app/app/auto-update.xml",
+  "update_url": "http://mikeflynn.github.io/beats-app/app/auto-update.xml"
 }
