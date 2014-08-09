@@ -17,5 +17,6 @@
     "webview",
     "https://*.beatsmusic.com/*",
     "http://*.beatsmusic.com/*"
-  ]
+  ],
+  "update_url": "http://mikeflynn.github.io/beats-app/auto-update.xml"
 }
