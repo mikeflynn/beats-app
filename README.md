@@ -11,3 +11,7 @@ Once installed, you can run the app via the Chrome App menu (and if you're on OS
 ## Limitations
 
 This was a very quick solution so it's not super full featured. One issue is that you can't close the window and have the music continue to play, however minimizing does the trick. There's also no extras like notifications or any of the usual Chrome App trappings as that would require more integration with the Beats Music web application.
+
+## Issues / Features / Questions
+
+You can reach out to me via GitHub or on Twitter: [@mikeflynn_](https://twitter.com/mikeflynn_)
