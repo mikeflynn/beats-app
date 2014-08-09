@@ -4,9 +4,17 @@ While at work I like to move my music to an app on my computer rather than using
 
 ## Usage
 
-I'm sure I can't get this in to the Google Chrome Web Store (I'll try anyway) but worse case you can simply download this directory and then take the beats-app.crx file from the /app directory and drag it on to your Google Chrome Extensions page: *chrome://extensions/*
+There are two ways to install the app:
 
-Once installed, you can run the app via the Chrome App menu (and if you're on OS X, you can set the app to stay in your Dock like any other app).
+1. Use the Google Chrome Store
+
+I'm not quite sure if Beats cares or not, but for now the app is in the Chrome Web App Store, so the easiest install method is to simply add it to Chrome from there: [https://chrome.google.com/webstore/detail/beats-music-chrome-app/hjeiboeolldhkhfldcipahpigbebkioo](https://chrome.google.com/webstore/detail/beats-music-chrome-app/hjeiboeolldhkhfldcipahpigbebkioo)
+
+2. Install the extension file by hand
+
+If the app gets pulled for some reason, or you just don't want to use the Chrome Store, you can simply download the beats-app.crx file from the /app directory and drag it on to your Google Chrome Extensions page: *chrome://extensions/* That crx file is has a minor change that allows it to auto-update outside of the store, so going this route won't effect you in any way if a bug pops up.
+
+Once installed (via either above method), you can run the app via the Chrome App menu...and if you're on OS X, you can set the app to stay in your Dock like any other app.
 
 ## Limitations
 
