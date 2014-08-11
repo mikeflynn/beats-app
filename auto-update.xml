@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='haemddlcfodlcjjcnhpdlnihcmjmicma'>
-    <updatecheck codebase='https://mikeflynn.github.io/beats-app/app/beats-app.crx' version='1.2' />
+    <updatecheck codebase='https://mikeflynn.github.io/beats-app/app/beats-app.crx' version='1.4' />
   </app>
 </gupdate>
