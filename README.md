@@ -22,4 +22,4 @@ This was a very quick solution so it's not super full featured. One issue is tha
 
 ## Issues / Features / Questions
 
-You can reach out to me via GitHub or on Twitter: [@mikeflynn_](https://twitter.com/mikeflynn_)
+You can reach out to me via GitHub or on Twitter: [@thatmikeflynn](https://twitter.com/thatmikeflynn)
