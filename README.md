@@ -1,3 +1,7 @@
+## Update - 2021.01.08:
+
+_RIP Beats Music and RIP Google Chrome Apps. This repo has been archived._
+
 ## Beats Music Google Chrome App
 
 While at work I like to move my music to an app on my computer rather than using my phone. This is no problem if you use Rdio or Spotify who have native Mac apps of varying degrees of success, but there is no such app for Beats Music. They do have a web presence though, so after losing my Beats Music tab for the upteenth time, I threw together a quick Google Chrome Packaged App to tide me over until the official Mac app arrives (which you have to believe is in the works after the Apple acquisition...and [they pretty much confirmed this to me.](https://twitter.com/mikeflynn_/status/487703510947860480))
